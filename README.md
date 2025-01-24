@@ -13,4 +13,4 @@ Creating an attractive dashboard using excel for analysing the sales of commodit
 6.Profit trend over months using line graph <br>
 7.Provided insights,slicers and timeline <br>
 - <a href="https://github.com/Meeval20/Data-Analysis-Dashboard-using-Excel/blob/main/Dashboard%20Superstore%20Sale%20US%202015.xlsx">DashBoard 
-- <a href="
+- <a href="https://github.com/Meeval20/Data-Analysis-Dashboard-using-Excel/blob/main/Dashboard%20Image.png">Dashboard Image
