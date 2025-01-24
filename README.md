@@ -5,7 +5,7 @@ Creating an attractive dashboard using excel for analysing the sales of commodit
 ## Datasets Used
 -<a href="https://github.com/Meeval20/Data-Analysis-Dashboard-using-Excel/blob/main/Dataset.xlsx"> Datasets 
 ## Works done on Project
-1.Most used shipment mode using pie diagram
+1.Most used shipment mode using pie diagram <br>
 2.Total profit distribution across diffrent states using maps
 3.Total Sales by Product category using bar graph
 4.Total Sales and Profit by product sub category using column graph
